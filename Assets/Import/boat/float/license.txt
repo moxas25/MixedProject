@@ -1,0 +1,11 @@
+Model Information:
+* title:	Inflatable Boat
+* source:	https://sketchfab.com/3d-models/inflatable-boat-aeec3347dce34d399d93c35013f4304a
+* author:	grs (https://sketchfab.com/sgrosjean)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Inflatable Boat" (https://sketchfab.com/3d-models/inflatable-boat-aeec3347dce34d399d93c35013f4304a) by grs (https://sketchfab.com/sgrosjean) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
